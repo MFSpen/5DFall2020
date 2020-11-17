@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+html, body, div, h1, h2, h3, h4, h5, h6, p,img {
+	max-width: 1600px
+} center,  ol, ul, li,  embed,  figure, figcaption, footer, header, hgroup,  menu, nav, output, ruby, section,
+
+article, aside, details, figcaption, figure,  footer, 
+header, hgroup, menu, nav, section { display: block; } 
+
+#container {
+	width: 200px;
+	height: 430px;
+	float: left; 
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px; 
+	margin-top: 10px;
+	margin-left: 100px;
+	margin-right: auto;
+	background: grey; 
+	}
+
+#red_Box {
+	width: 200px;
+	height: 200px;
+	float: left; 
+	margin-right: 10px; 
+	margin-bottom: 10px;
+	background: red;
+	}
+#orange_Box {
+	width: 200px;
+	height: 200px;
+	float: none; 
+	margin-right: 20px; 
+	margin-top: 220px;
+	margin-bottom: 10px;
+	background: orange;
+		}
+#green_Box {
+	width: 200px;
+	height: 200px;
+	float: left; 
+	margin-right: 20px; 
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: green;
+			}
+#blue_Box {
+	width: 200px;
+	height: 200px;
+	float: left; 
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background: blue;
+		}
+#orangex_Box {
+	width: 200px;
+	height: 200px;
+	float: left; 
+	margin-right: 20px; 
+	margin-bottom: 10px;
+	background: orange;
+	}
+
+	#h1 {
+		font-size: 12px;
+		margin-right: 50px;
+		position: absolute;
+	}
